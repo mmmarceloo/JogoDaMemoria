@@ -1,0 +1,13 @@
+
+
+    .card{
+      margin: 15px;
+      cursor: pointer;
+      width: 136px;
+      height: 236px;
+  }
+    
+  
+    .card{
+      transform: scale(1.05);
+    }
